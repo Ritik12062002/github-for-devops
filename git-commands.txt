@@ -4,3 +4,9 @@ git add filename
 git rm --cached <file>
 git commit -m "message"
 git restore filename
+
+
+git remote add origin url
+git remote -v
+remote set-url origin https://PAT@github.com/url
+git push origin master 
