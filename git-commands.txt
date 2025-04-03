@@ -10,6 +10,7 @@ git remote add origin url
 git remote -v
 remote set-url origin https://PAT@github.com/url
 git push origin master 
+git pull origin master
 
 
 this is new changes
