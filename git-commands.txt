@@ -12,5 +12,9 @@ remote set-url origin https://PAT@github.com/url
 git push origin master 
 git pull origin master
 
+git log
+git log --online
+git fetch
+
 
 this is new changes
